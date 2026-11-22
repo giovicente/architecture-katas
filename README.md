@@ -22,7 +22,7 @@ I pick a kata at random from [Architectural Katas](https://www.architecturalkata
 
 I deliberately choose exercises in a range of domains, including ones outside banking and e-commerce, where I've delivered software professionally. Working through unfamiliar business problems helps me build on my experience and broaden the range of problems I can tackle.
 
-## On the use of AI
+## On the Use of AI
 
 A kata is about practicing techniques until they become second nature. That's why I work through the design myself. In my day-to-day work, I see AI tools as an important way to deliver software faster.
 
